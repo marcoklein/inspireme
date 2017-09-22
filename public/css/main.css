@@ -1,0 +1,37 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+/* Hide initial content */
+[v-cloak] {
+  display: none;
+}
+
+/*html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}*/
+
+body,html {
+    width: 100%;
+    min-height: 350px;
+}
+
+.top-gap {
+    margin-top: 8px;
+}
+
+#thought-input {
+    position: fixed;
+    bottom: 15%;
+}
+
+.thought {
+    margin-left: 4px;
+    margin-right: 4px;
+}
