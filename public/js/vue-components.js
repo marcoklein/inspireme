@@ -24,6 +24,7 @@ const ImagesArray = [
 ]
 
 
+
 /**
  * Shows all thoughts that were typed in by the user.
  */
