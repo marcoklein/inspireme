@@ -29,6 +29,7 @@ body,html {
 #thought-input {
     position: fixed;
     bottom: 15%;
+    width: 100%;
 }
 
 .thought {
